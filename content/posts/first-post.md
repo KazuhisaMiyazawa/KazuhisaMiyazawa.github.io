@@ -1,9 +1,9 @@
-+++
+---
 date = '2026-02-11T15:29:02+09:00'
 draft = false
-title = 'First Post'
-+++
+title = '技術メモ、はじめました'
+---
 
 # Welcome
 
-This is my technical notes site.
+QiitaやZennに記載するにはためらうような作業メモや調べたことをここに書いていこうと思います。
