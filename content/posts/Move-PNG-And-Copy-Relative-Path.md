@@ -1,6 +1,6 @@
 +++
 date = '2026-02-13T00:24:22+09:00'
-draft = true
+draft = false
 title = 'Move PNG and Copy Relative Path'
 +++
 
