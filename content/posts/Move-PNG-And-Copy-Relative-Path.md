@@ -6,7 +6,7 @@ title = 'Move PNG and Copy Relative Path'
 
 # PNGをQuick Actionsで自動整理したら便利だった話
 
-![](./figs/260213003058.png)
+![](/figs/260213003058.png)
 
 私は毎日の作業メモをマークダウンで残しています。作成したスクリーンショットのPNGをマークダウンに貼り付けるために、これまでは次のような手順を踏んでいました。
 
@@ -20,7 +20,7 @@ title = 'Move PNG and Copy Relative Path'
    $ mv ~/Desktop/ScreenShot.png ~/SteadyProgress/figs/260213003058.png
    ```
 
-3. 作業メモに「`![](figs/260213003058.png)`」とタイプする
+3. 作業メモに「`![](/Users/kazuhisamiyazawa/Desktop/KazuhisaMiyazawa.github.io/content/posts/figs/260213003058.png)`」とタイプする
 
 冷静に考えると、かなり非効率です。
 
@@ -32,16 +32,16 @@ Quick Actionsをうまく設定すれば、このターミナル操作が不要�
 
 ↓のようなショートカットを作成しました。
 
-![](./figs/260212014133.png)
+![](/figs/260212014133.png)
 
 設定の大まかな流れは以下の通りです。
 
 0. **Quick Actionとして有効化:** 右パネル「i」マークをクリックし、「Use as Quick Action」と「Finder」にチェックをつけます。
 
-   ![](./figs/260213005447.png)
+   ![](/figs/260213005447.png)
 
 1. **対象をファイルに限定:** クイックアクションの対象をファイルに限定します。
-   ![](./figs/260213005653.png)
+   ![](/figs/260213005653.png)
 
 2. **現在時刻を取得:** `Date`アクションで「Current Date」を選択して現在時刻を取得します。
 
